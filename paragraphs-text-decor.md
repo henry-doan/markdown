@@ -2,7 +2,13 @@ This is a paragraph
 
 this is another paragraph
 
-Lorem **bold** *italic* sit amet, consectetur __bold__ _italic_ elit, sed do eiusmod ~~strike Through~~ incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**bold** *italic*
+
+__bold__ _italic_  
+
+~~strike Through~~ 
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 This
 will
