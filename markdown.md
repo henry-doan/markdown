@@ -22,4 +22,4 @@ let age = 12;
 |  Mick  |  3    |  Fur   |
 |  Lick  |  2    |  Hair  |
 
-![Wow](https://images.unsplash.com/photo-1483388381485-344c3a9ded7f?dpr=2&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
