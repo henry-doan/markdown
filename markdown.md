@@ -23,5 +23,3 @@ let age = 12;
 |  Lick  |  2    |  Hair  |
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-/play sexyback
